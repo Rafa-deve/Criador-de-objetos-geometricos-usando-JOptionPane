@@ -1,0 +1,9 @@
+1 - Inserir um método abstrato calcularPerimetro;
+2 - Inserir uma classe Quadrado que herda de Retangulo - um quadrado é um retângulo porém com os lados iguais. 
+3 - Inserir um menu na principal:
+      a - Inserir objeto perguntar qual objeto deseja criar (Retangulo, Circulo, Quadrado), perguntar os dados e inserir no ArrayList;
+      b - Exibir os dados de todos os objetos do ArrayList;
+      c - Calcular area de todos os objetos
+      d - Exibir apenas a area dos Circulos.
+
+4 - Adapte o código de modo que ao invés dos dados serem lidos com Scanner e exibidos com System.out.print, utilizar interface gráfica, com JOptionPane ou JFrame.
